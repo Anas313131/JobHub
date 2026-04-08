@@ -4,6 +4,9 @@ A simple Android app that helps you manage and access all your job platform prof
 
 ---
 
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/57d37552-e0dc-411a-aa0b-57483dc4880a" />
+
+
 ## 🚀 Features
 
 * 🔗 Add and save profile links from:
